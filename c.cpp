@@ -11,7 +11,7 @@ public:
     Node *next;
 };
 
-class Linked_list
+class Linked_listsdfsdf
 {
 public:
     Node *head;
