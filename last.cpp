@@ -86,6 +86,7 @@ public:
         }
         delete temp;
     }
+    dvfvfdvdv
 
     int pop()
     {
